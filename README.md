@@ -98,4 +98,4 @@ Advanced Filtering:
 - Combine Multiple Keywords to narrow search
 - Review Keyword Breakdown to see individual match counts
 
-**Note**: This tool is designed for research and analysis purposes. Always comply with Twitter's Terms of Service and applicable laws when using archived social media data.
+**Note**: This tool is designed for research and analysis purposes.
